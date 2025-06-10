@@ -1,16 +1,47 @@
-## Hi there 👋
+## 👋 Hey, I'm Camilo!
 
-<!--
-**JsuarezYp/JsuarezYp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador fullstack con experiencia en diseño, desarrollo e implementación de soluciones tecnológicas enfocadas en el crecimiento digital de empresas. He colaborado en startups, grandes compañías y proyectos de inversión tecnológica.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos actuales
+
+- 🔹 [Scalboost](https://scalboost.com/es/) — Desarrollo de plataforma de membresías y soluciones ecommerce.
+- 🔹 [Agave Investment](https://agaveinvestment.com/) — Aplicación de inversión basada en plantas de agave.
+- 🔹 [Tequila Barrel Capital](https://tequilabarrelcapital.com/) — Proyecto de inversión con barricas de tequila.
+
+---
+
+## 🏢 Experiencia previa
+
+He aportado en proyectos de transformación digital, optimización de procesos y desarrollo de soluciones personalizadas en empresas como:
+
+- 🟠 **Forever 21**
+- 🟠 **General Motors (Colmotores)**
+- 🟠 **Colchones Paraíso**
+- 🟠 **Belgroup / Sportlife**
+- 🟠 **Colsubsidio (Supermercados)**
+- 🟠 **Electricaribe**
+- 🟠 **Metrolínea Bucaramanga**
+- 🟠 **SuperCable**
+
+---
+
+## 🛠️ Tecnologías
+
+- **Frontend**: Flutter, React, JavaScript, TypeScript, HTML, CSS
+- **Backend**: Node.js, Firebase, Firestore, Supabase, Cloud Functions
+- **Otros**: REST APIs, Git, Figma, FlutterFlow
+- **Mobile**: Desarrollo para iOS y Android desde un solo código base
+
+---
+
+## 📫 Contacto
+email: jecarisu@hotmail.com
+
+### GitHub Stats 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JsuarezYp&theme=dracula)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
