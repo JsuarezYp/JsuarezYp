@@ -6,9 +6,10 @@ Soy desarrollador fullstack con experiencia en diseño, desarrollo e implementac
 
 ## 🚀 Proyectos actuales
 
-- 🔹 [Scalboost](https://scalboost.com/es/) — Desarrollo de plataforma de membresías y soluciones ecommerce.
+
 - 🔹 [Agave Investment](https://agaveinvestment.com/) — Aplicación de inversión basada en plantas de agave.
 - 🔹 [Tequila Barrel Capital](https://tequilabarrelcapital.com/) — Proyecto de inversión con barricas de tequila.
+- 🔹 [Scalboost](https://scalboost.com/es/) — Desarrollo de plataforma de membresías y soluciones ecommerce.
 
 ---
 
